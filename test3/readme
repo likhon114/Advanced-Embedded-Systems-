@@ -1,1 +1,9 @@
+The video is here: https://www.youtube.com/watch?v=owSMv7sGolM&list=PLoeAEVbgcGFZc4WZZbmne_ehX7WOvAgFS&index=14 
+The python code is given in the attachment. To run this code, we need to add the following library file in the directory.
+1.	LCD.py
+2.	GPS.py
+3.	ble_advertising.py
+4.	ble_simple_peripheral.py
+I have made the GPS library file to extract the location value from raw gps data. Also, there is function for converting latitude longitude data to x,y coordinate and vice versa.
+I used interrupt to button 15 and button 14 according to the question.
 
